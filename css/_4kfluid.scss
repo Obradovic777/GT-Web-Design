@@ -1,0 +1,364 @@
+@media screen and (min-width: 1153px){
+
+    .div4{
+        &__button {
+            align-self: center;
+        }
+    }
+}
+
+
+@media screen and (min-width: 1153px){
+
+  .div1 {
+    padding-top: 2.34172vw;
+    height: 60.88465vw;
+    &__absolute1 {
+      top: 21.16219vw;
+    }
+    &__absolute2 {
+      top: 9.28014vw;
+      left: 20.98873vw;
+      width: 8.67303vw;
+      height: 8.67303vw;
+    }
+    &__absoluteimg2 {
+      width: 8.67303vw;
+      height: 8.67303vw;
+    }
+    &__absolute3 {
+      top: 12.22897vw;
+      left: 40.58977vw;
+      width: 5.55074vw;
+      height: 5.55074vw;
+    }
+    &__absoluteimg3 {
+      width: 5.55074vw;
+      height: 5.55074vw;
+    }
+  }
+  .nav {
+    margin-left: 8.67303vw;
+    margin-right: 8.67303vw;
+    margin-bottom: 5.55074vw;
+    box-shadow: 0vw 0.26019vw 0.95403vw rgba(0, 0, 0, 0.1);
+    border-radius: 2.08153vw;
+    &__div1 {
+      padding-left: 2.68864vw;
+      width: 7.4588vw;
+      height: 3.29575vw;
+    }
+    &__div1img {
+      width: 7.4588vw;
+      height: 3.29575vw;
+    }
+    &__div2link {
+      font-size: 1.38768vw;
+      line-height: 3.81613vw;
+      margin-right: 3.46921vw;
+    }
+    &__div2link::after {
+      height: 0.26019vw;
+    }
+    &__div2btn {
+      width: 12.40243vw;
+      height: 4.07632vw;
+      border-radius: 2.08153vw;
+      font-size: 1.38768vw;
+    }
+  }
+  .main {
+    padding-left: 11.36167vw;
+    padding-right: 10.49436vw;
+    &__p {
+      font-size: 2.08153vw;
+      line-height: 2.42845vw;
+      margin-bottom: 0.78057vw;
+    }
+    &__h2 {
+      font-size: 3.12229vw;
+      line-height: 3.81613vw;
+      margin-bottom: 1.30095vw;
+    }
+    &__button1 {
+      width: 12.40243vw;
+      height: 4.07632vw;
+      border-radius: 2.08153vw;
+      font-size: 1.38768vw;
+      margin-right: 1.73461vw;
+    }
+    &__button2 {
+      width: 11.4484vw;
+      height: 4.07632vw;
+      border-radius: 2.08153vw;
+      font-size: 1.38768vw;
+    }
+    &__div2 {
+      width: 26.88638vw;
+      height: 33.56461vw;
+    }
+    &__div2img {
+      width: 26.88638vw;
+      height: 33.56461vw;
+    }
+  }
+  .div2 {
+    box-shadow: 0vw 0.34692vw 1.38768vw rgba(0, 0, 0, 0.12);
+    border-radius: 2.08153vw;
+    margin-top: 8.75976vw;
+    margin-bottom: 8.67303vw;
+    margin-left: 6.07112vw;
+    margin-right: 6.07112vw;
+    padding-top: 2.77537vw;
+    padding-left: 4.77016vw;
+    padding-right: 4.77016vw;
+    padding-bottom: 4.33651vw;
+    &__h2 {
+      font-size: 2.77537vw;
+      line-height: 3.38248vw;
+      margin-bottom: 4.16305vw;
+      &::after {
+        width: 3.7294vw;
+        height: 0.26019vw;
+      }
+    }
+  }
+  .div3 {
+    padding-left: 8.67303vw;
+    padding-right: 11.1882vw;
+    padding-bottom: 8.67303vw;
+    &__h2 {
+      font-size: 2.77537vw;
+      line-height: 3.38248vw;
+      margin-bottom: 3.12229vw;
+      &::after {
+        width: 3.7294vw;
+        height: 0.26019vw;
+      }
+    }
+    &__textimg {
+      width: 80.05204vw;
+    }
+    &__p {
+      width: 49.52298vw;
+      height: 20.46834vw;
+      font-size: 1.38768vw;
+      line-height: 2.77537vw;
+    }
+    &__img {
+      width: 21.68257vw;
+      height: 21.68257vw;
+    }
+  }
+  .div4 {
+    padding-left: 8.67303vw;
+    padding-right: 8.67303vw;
+    padding-bottom: 8.67303vw;
+    &__h2 {
+      font-size: 2.77537vw;
+      line-height: 3.38248vw;
+      margin-bottom: 4.07632vw;
+      &::after {
+        width: 3.7294vw;
+        height: 0.26019vw;
+      }
+    }
+    &__images {
+      column-gap: 1.56114vw;
+      row-gap: 3.46921vw;
+    }
+    &__imagef {
+      border-radius: 0.60711vw;
+    }
+    &__image {
+      border-radius: 0.60711vw;
+    }
+    &__overlay {
+      border-radius: 0.60711vw;
+    }
+    &__h3 {
+      line-height: 0vw;
+      transform: translateY(13.00954vw);
+      font-size: 1.56114vw;
+    }
+    &__button {
+      font-size: 1.38768vw;
+      border-radius: 2.08153vw;
+      padding-left: 2.77537vw;
+      padding-right: 2.8621vw;
+      padding-top: 1.21422vw;
+      padding-bottom: 1.21422vw;
+      margin-top: 3.64267vw;
+    }
+  }
+  .div4__imagef:hover .div4__overlay h3 {
+    transform: translateY(0.43365vw);
+  }
+  .div5 {
+    padding-bottom: 13.26973vw;
+    &__h2 {
+      font-size: 2.77537vw;
+      line-height: 3.38248vw;
+      margin-bottom: 4.33651vw;
+      &::after {
+        width: 3.7294vw;
+        height: 0.26019vw;
+      }
+    }
+    .swiper {
+      padding: 0 18.21336vw;
+    }
+    .swiper-slide {
+      width: 63.13964vw;
+    }
+    .swiper-next-custom {
+      width: 5.63747vw;
+      height: 5.63747vw;
+      border-radius: 4.50997vw;
+      filter: drop-shadow(0vw 0.34692vw 0.69384vw rgba(0, 0, 0, 0.15));
+      right: 8.67303vw;
+    }
+    .swiper-prev-custom {
+      width: 5.63747vw;
+      height: 5.63747vw;
+      border-radius: 4.50997vw;
+      filter: drop-shadow(0vw 0.34692vw 0.69384vw rgba(0, 0, 0, 0.15));
+      left: 8.67303vw;
+    }
+    .swiper1p {
+      width: 43.36513vw;
+      font-size: 1.38768vw;
+      line-height: 2.77537vw;
+      margin-bottom: 1.56114vw;
+    }
+    .swiper1btn {
+      font-size: 1.56114vw;
+      line-height: 2.77537vw;
+      padding-top: 0.26019vw;
+      padding-bottom: 0.26019vw;
+      padding-left: 1.21422vw;
+      padding-right: 1.12749vw;
+      margin-left: 1.30095vw;
+    }
+  }
+  .div6 {
+    padding-left: 8.67303vw;
+    padding-right: 8.67303vw;
+    padding-bottom: 7.4588vw;
+    &__h2 {
+      font-size: 2.77537vw;
+      line-height: 3.38248vw;
+      margin-bottom: 4.94363vw;
+      &::after {
+        width: 3.7294vw;
+        height: 0.26019vw;
+      }
+    }
+  }
+  .form6 {
+    &__nameemail {
+      margin-bottom: 3.12229vw;
+    }
+    &__name {
+      width: 39.89592vw;
+      height: 4.33651vw;
+      border: 0.17346vw solid $black;
+      box-shadow: 0vw 0.52038vw 1.38768vw rgba(0, 0, 0, 0.11);
+      border-radius: 2.08153vw;
+      font-size: 1.38768vw;
+      line-height: 1.64788vw;
+      padding-left: 2.60191vw;
+      padding-right: 2.60191vw;
+      padding-bottom: 0.8673vw;
+      padding-top: 0.8673vw;
+    }
+    &__email {
+      width: 39.89592vw;
+      height: 4.33651vw;
+      border: 0.17346vw solid $black;
+      box-shadow: 0vw 0.52038vw 1.38768vw rgba(0, 0, 0, 0.11);
+      border-radius: 2.08153vw;
+      font-size: 1.38768vw;
+      line-height: 1.64788vw;
+      padding-left: 2.60191vw;
+      padding-right: 2.60191vw;
+      padding-bottom: 0.8673vw;
+      padding-top: 0.8673vw;
+    }
+    &__textarea {
+      width: 82.56722vw;
+      height: 14.39722vw;
+      border: 0.17346vw solid $black;
+      box-shadow: 0vw 0.52038vw 1.38768vw rgba(0, 0, 0, 0.11);
+      border-radius: 2.08153vw;
+      font-size: 1.38768vw;
+      line-height: 1.64788vw;
+      padding-left: 2.60191vw;
+      padding-right: 2.60191vw;
+      padding-bottom: 1.30095vw;
+      padding-top: 1.30095vw;
+      margin-bottom: 3.03556vw;
+    }
+    &__button {
+      font-size: 1.38768vw;
+      line-height: 1.64788vw;
+      border-radius: 2.08153vw;
+      padding-top: 1.21422vw;
+      padding-bottom: 1.21422vw;
+      padding-left: 2.77537vw;
+      padding-right: 2.68864vw;
+    }
+  }
+  .div7 {
+    padding-top: 8.84649vw;
+    padding-bottom: 8.84649vw;
+    padding-left: 8.67303vw;
+    padding-right: 8.67303vw;
+    &__part1img {
+      width: 14.91761vw;
+      height: 6.50477vw;
+    }
+    &__part4 {
+      width: 13.52992vw;
+    }
+    &__h2 {
+      font-size: 1.73461vw;
+      line-height: 2.77537vw;
+      margin-bottom: 1.9948vw;
+      &--lasth2 {
+        font-size: 1.73461vw;
+        line-height: 2.77537vw;
+        margin-bottom: 2.42845vw;
+      }
+    }
+    &__p {
+      font-size: 1.38768vw;
+      line-height: 2.77537vw;
+    }
+    &__images {
+      margin-bottom: 2.77537vw;
+    }
+    &__lastp {
+      font-size: 1.38768vw;
+      line-height: 2.77537vw;
+    }
+  }  
+  .div7__images a img{
+    width: 2.5vw;
+  }
+  .swipperiimg{
+    width: 15vw;
+  }
+  .div4__imagef{
+    width: 23vw;
+    height: 15vw;
+  }
+  .div4__image{
+    width: 23vw;
+    height: 15vw;
+  }
+  .div4__overlay{
+    width: 23vw;
+    height: 15vw;
+  }
+}

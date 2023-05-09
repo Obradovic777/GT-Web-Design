@@ -1,0 +1,109 @@
+// Mixins \\
+
+/*
+@mixin mQ($arg){                                                   // @include mQ(1000px){
+    @media screen and (max-width: $arg){
+        @content;
+    }
+}
+*/
+
+
+/*
+@mixin vertical-center {
+   position: absolute;
+   top: 50%;
+   -ms-transform: translateY(-50%);
+   -webkit-transform: translateY(-50%);
+   transform: translateY(-50%);
+}
+*/
+
+
+/*
+@mixin horizontal-center {
+    position: absolute;
+    left: 50%;
+    -ms-transform: translateX(-50%);
+    -webkit-transform: translateX(-50%);
+    transform: translateX(-50%);
+}
+*/
+
+
+/*
+@mixin flexCenter($direction){
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: $direction;
+}
+
+@include flexCenter(column);
+*/
+
+
+/*
+@mixin text-shorten($numLines: 1) {                   // If you want to add an ellipsis to text with multi-lines, you only need to pass one argument.
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    overflow: hidden;
+   
+    @supports (-webkit-line-clamp: $numLines) {
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: initial;
+      display: -webkit-box;
+      -webkit-line-clamp: $numLines;
+      -webkit-box-orient: vertical;
+    }
+}
+*/
+
+
+/*
+@mixin input-placeholder {
+    &.placeholder { @content; }
+    &:-moz-placeholder { @content; }
+    &::-moz-placeholder { @content; }
+    &:-ms-input-placeholder { @content; }
+    &::-webkit-input-placeholder { @content; }
+}
+input, textarea {                                             // Example
+    @include input-placeholder {
+        color: $grey;
+    }
+}
+*/
+
+
+/*
+@mixin arrow($direction: down, $size: 5px, $color: #555) {
+   width: 0;
+   height: 0;
+   @if ($direction == left) {
+      border-top: $size solid transparent;
+      border-bottom: $size solid transparent; 
+      border-right: $size solid $color;
+   }
+   @else if ($direction == right) {
+      border-top: $size solid transparent;
+      border-bottom: $size solid transparent; 
+      border-left: $size solid $color;
+   }
+   @else if ($direction == down) {
+      border-left: $size solid transparent;
+      border-right: $size solid transparent;
+      border-top: $size solid $color;
+   }
+   @else {
+      border-left: $size solid transparent;
+      border-right: $size solid transparent;
+      border-bottom: $size solid $color;
+   }
+}
+
+div {                                                       // Example
+   @include arrow(up, 10px, #efefef);
+}
+*/
